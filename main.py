@@ -1,3 +1,1 @@
-from conofig import TOKEN, API
-
-
+from config import TOKEN, API
